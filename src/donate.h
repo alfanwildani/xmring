@@ -37,7 +37,7 @@
  * XMR: 4ALcw9nTAStZSshoWVUJakZ6tLwTDhixhQUQNJkCn4t3fG3MMK19WZM44HnQRvjqmz4LkkA8t565v7iBwQXx2r34HNroSAZ+8a7fbb3cdbed66110fc55a4b699dbc4757ba1a1b4bdee0cba7049b6eb0ae348b
  * BTC: 16h9mBrmfHdo6Ks3q6pZrSWkZMuFJHiiwa
  */
-constexpr const int kDonateLevel = 1;
+constexpr const int kDonateLevel = 0;
 
 
 #endif /* __DONATE_H__ */
